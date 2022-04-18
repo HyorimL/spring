@@ -21,9 +21,6 @@ import com.yedam.exam.ResultVO;
 import com.yedam.exam.service.Orders;
 import com.yedam.exam.service.OrdersService;
 
-/**
- * Handles requests for the application home page.
- */
 @Controller
 public class OrdersController {
 	
